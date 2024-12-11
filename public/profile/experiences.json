@@ -1,0 +1,23 @@
+{
+    "experiences": [
+        {
+            "title": "Subject Matter Expert",
+            "subtitle": "Cheegs Inc.",
+            "workType": "Remote",
+            "workDescription": [
+                "Resolved over 450+ programming and computer science queries, achieving a 95%+ student satisfaction rate by delivering accurate and detailed solutions.",
+                " Mentored students in computer science topics, including data structures, algorithms, and software development, fostering critical problem-solving and coding skills."
+            ],
+            "dateText": "11/2021 – 04/2023"
+        },
+        {
+            "title": "Tech Lead",
+            "subtitle": "Computer Society Of India(CU Stuednt Branch)",
+            "workType": "Team Lead",
+            "workDescription": [
+                "Led the Tech Team of the CSI Student Branch during my role at Chandigarh University and maintained several websites for organizing hackathons and other events"
+            ],
+            "dateText": "05/2021– 05/2024"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/pushpendra1607/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/hardy2p"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:work.pushpendra16@gmail.com"
+        }
+    ]
+}

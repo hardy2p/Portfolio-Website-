@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "Jun 2021 - Jun 2024",
+            "cardTitle": "B.E., Computer Science",
+            "cardSubtitle":"Chandigarh University, Mohali",
+            "cardDetailedText": "CGPA - 8.1",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "March 2019",
+            "cardTitle": "High School",
+            "cardSubtitle":"JVP International School, Jaipur",
+            "cardDetailedText": "Marks - 91%(PCM)",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        }
+    ]
+}

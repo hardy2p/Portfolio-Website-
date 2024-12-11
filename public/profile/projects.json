@@ -1,0 +1,85 @@
+
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.jpg",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://mayankagarwal.me"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/SuperHero Application Pic.jpg",
+            "title": "Caaring -  Cab Share App",
+            "bodyText": "- Real-time Superhero Data: Fetches superhero details like power and strength via API, showing an image and attributes.\n- Efficient & Interactive: Built with **JavaScript** and **APIs** for smooth and responsive performance.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/hardy2p/Superhero-app"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://superhero-app-green.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "API",
+                "Vercel"
+            ]
+        },
+        {
+            "image" : "images/projects/Quiz App Pic.jpg",
+            "title": "Quiz Application",
+            "bodyText": "- Interactive Quiz: Allows users to take quizzes and displays results at the end.\n- Built with **HTML**, **CSS**, and **JavaScript** for a smooth and dynamic user experience.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/hardy2p/Quiz-App"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://quiz-app-zeta-livid.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "API",
+                "Vercel"
+            ]
+        },
+        {
+            "title": "First Inning Score Detector",
+    "bodyText": "- A web app that predicts the first inning score using a **Linear Regression** model.\n- The model is trained, pickled, and used in **Flask** for predictions.\n- Efficient use of **Machine Learning** techniques for accurate score prediction.",
+    "links": [
+        {
+            "text": "GitHub",
+            "href": "https://github.com/hardy2p/First-Innings-Score-Predictor-IPL-"
+        }
+    ],
+    "tags": [
+        "Python",
+        "Machine Learning",
+        "Flask",
+        "Linear Regression"
+    ]
+        }
+    ]
+}
